@@ -1,2 +1,2 @@
-# Ciencia_Dados_DIO
+# Ciencia Dados DIO
 Repositório destinado a armazenar os desafios de código do Bootcamp DIO
