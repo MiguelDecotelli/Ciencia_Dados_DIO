@@ -8,7 +8,53 @@ INSERT INTO e_commerce.cliente_pessoa_fisica (
         Email,
         Endereço
     )
-VALUES (
+VALUES 
+        (
+        'Tony',
+        'Stark',
+        '11111111111',
+        '1978-01-15',
+        '1234567890',
+        'ironman@avengers.com',
+        '200, Park Avenue'
+    ),
+    (
+        'Steve',
+        'Rogers',
+        '22222222222',
+        '1941-07-04',
+        '1234567891',
+        'captainamerica@avengers.com',
+        '200, Park Avenue'
+    ),
+    (
+        'Bruce',
+        'Banner',
+        '33333333333',
+        '1974-09-02',
+        '1234567891',
+        'hulk@avengers.com',
+        '200, Park Avenue'
+    ),
+        (
+        'Thor',
+        'Odinson',
+        '44444444444',
+        '1510-05-10',
+        '1234567891',
+        'thor@avengers.com',
+        '200, Park Avenue'
+    ),
+        (
+        'Clint',
+        'Barton',
+        '55555555555',
+        '1980-03-20',
+        '1234567891',
+        'hawkeye@avengers.com',
+        '200, Park Avenue'
+    ),
+        (
         'Natasha',
         'Romanoff',
         '66666666666',
